@@ -12,7 +12,7 @@ ${SEARCH_TERM} =  Ferrari 458
 
 
 *** Test Cases ***
-Guest must sign in to check out
+Guest must sign in to check out this one
     [Documentation]  This is the first test case
     #[Tags]  Smoke
     main.Search for Product
